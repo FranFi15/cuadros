@@ -1,5 +1,7 @@
 .App {
   text-align: center;
+  background-image: url("/public/img/img3.wallspic.com-negro-piso-fila-angulo-ladrillo-2560x1440.jpg");
+  background-size: 50%;
 }
 
 .App-logo {
